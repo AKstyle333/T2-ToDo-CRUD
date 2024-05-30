@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "63ed",
+      "title": "Hello",
+      "author": "Eeee"
+    },
+    {
+      "id": "119c",
+      "title": "heyyyy",
+      "author": "johneghteh"
+    },
+    {
+      "id": "2",
+      "title": "running ",
+      "author": "ak"
+    },
+    {
+      "id": "4",
+      "title": "wwww",
+      "author": "cccsdcdced"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
